@@ -1,7 +1,7 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://rjha0821.io)
 
 <h1 align="center">Hi 👋, I'm Rahul Jha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/rjha0821" target="blank"><img src="https://img.shields.io/twitter/follow/rjha0821?logo=twitter&style=for-the-badge" alt="rjha0821" /></a> </p>
 
-- 🔭 I’m currently working on **Olx-Clone**
+- 🔭 I’m currently working on **CAPGEMINI**
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **JAVA**
 
 - 📫 How to reach me **rjha0821@gmail.com**
 
